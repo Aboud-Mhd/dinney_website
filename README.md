@@ -1,2 +1,2 @@
-# azzel.github.io
-Azzel is a sport app, it made for running, cycling and more activities coming.It gives the ability to track your activities and to be connected with everyone through clubs.
+# dinney.github.io
+Dinney is a restaurant reservation that lets users pick their favaorite food on their favorite restaurant at the time they desire
